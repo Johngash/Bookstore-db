@@ -76,6 +76,58 @@ USE bookstoredb;
 2. Run `bookstoredb_create_tables.sql` in your MySQL client
 3. Use `sample_queries.sql` to test queries
 
+# 📚 Bookstore Project
+
+A simple bookstore application for browsing and purchasing books.
+
+---
+
+### Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/bookstore.git
+
+   
+### Navigate into the directory
+cd bookstore
+
+
+### Install the dependencies (e.g., if using npm or pip):
+npm install    # OR pip install -r requirements.txt
+
+### Usage
+Start the application:
+
+For a local server:
+
+bash
+Copy
+Edit
+npm start    # OR python app.py
+Access the app: Open your browser and go to http://localhost:3000 (or whichever port you're using).
+
+### Features
+Browse available books by categories.
+
+Search books by title or author.
+
+Add books to your cart and proceed to checkout.
+
+### Contributing
+Fork the repo
+
+Create a new branch (git checkout -b feature-name)
+
+Make changes
+
+Push to your branch (git push origin feature-name)
+
+Create a Pull Request
+
+### License
+MIT License (or your chosen license).
+
 
 
 ### ERD Diagram
