@@ -59,3 +59,6 @@ USE bookstoredb;
 ### ✅ Step 2: Run SQL schema
 
 
+### ERD Diagram
+
+![Bookstore ERD Diagram](assets/bookstore_erd.png)
