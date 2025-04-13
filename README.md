@@ -56,8 +56,6 @@ This project simulates a real-world **Bookstore Database** built using **MySQL**
 CREATE DATABASE bookstoredb;
 USE bookstoredb;
 ```
-### ✅ Step 2: Run SQL schema 
-
-### ✅ Step 3: Create and Select Database
+### ✅ Step 2: Run SQL schema
 
 
