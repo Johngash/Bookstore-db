@@ -2,4 +2,4 @@
 
 
 
-![alt text](assets/bookstore_erd.png)
+![Bookstore ERD Diagram](assets/bookstore_erd.png)
