@@ -81,3 +81,10 @@ USE bookstoredb;
 ### ERD Diagram
 
 ![Bookstore ERD Diagram](assets/bookstore_erd.png)
+
+## EER Diagram
+
+This diagram illustrates the relationships between key entities in the Bookstore database, including customers, books, authors, publishers, and purchases.
+
+
+![Bookstore EER Diagram](assets/bookstore eer.png)
