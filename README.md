@@ -1,6 +1,6 @@
 # 📚 Bookstore Database Management System
 
-This project simulates a real-world **Bookstore Database** built using **MySQL**. It is designed to manage the core operations of a bookstore including books, authors, customers, addresses, orders, shipping methods, and more. The system follows best practices in relational database design, including the use of normalization, foreign keys, and efficient data modeling.
+This project simulates a real-world Bookstore Database built using MySQL. It is designed to manage a bookstore's core operations, including books, authors, customers, addresses, orders, shipping methods, and more. The system follows best practices in relational database design, including normalization, foreign keys, and efficient data modeling.
 
 ---
 
@@ -46,9 +46,22 @@ This project simulates a real-world **Bookstore Database** built using **MySQL**
 - **`order_status`**: Status of orders (pending, shipped, etc.)
 - **`order_history`**: Tracks status changes over time
 
+
 ---
+### Database Features:
+- Manages book and author relationships
+- Tracks customer orders and shipping
+- Organizes addresses and countries
+- Supports queries for business insights
+
+ ### Files in this Repo
+- `bookstoredb_create_tables.sql` – Created the full schema
+- `sample_queries.sql` – Sample queries for testing
+- `bookstore_erd.png` – ERD of the database
+
 
 ## 📂 How to Use the Project
+
 
 ### ✅ Step 1: Create and Select Database
 
@@ -57,6 +70,12 @@ CREATE DATABASE bookstoredb;
 USE bookstoredb;
 ```
 ### ✅ Step 2: Run SQL schema
+
+###sUMMARY-simplified
+1. Clone the repo
+2. Run `bookstoredb_create_tables.sql` in your MySQL client
+3. Use `sample_queries.sql` to test queries
+
 
 
 ### ERD Diagram
