@@ -1,7 +1,6 @@
 -- Create the database
-create DATABASE /*IF NOT EXISTS*/ bookstoredb;
+CREATE DATABASE IF NOT EXISTS bookstoredb;
 USE bookstoredb;
-
 
 
 CREATE TABLE country (
