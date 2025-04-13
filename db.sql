@@ -36,7 +36,7 @@ CREATE TABLE shipping_method (
     id INT PRIMARY KEY,
     method_name VARCHAR(100),
     cost FLOAT
-=======
+
 CREATE DATABASE bookstoredb;
 
 DROP TABLE author;
@@ -44,7 +44,6 @@ DROP TABLE book;
 
 USE bookstoredb;
 
--- still to add relationships
 
 CREATE TABLE book(
 	book_id INT PRIMARY KEY,
@@ -75,5 +74,4 @@ CREATE TABLE publisher(
 	publisher_id INT PRIMARY KEY,
     publisher_name VARCHAR(100)
     
->>>>>>> 5305f076a87d23dd184a4c0544502decc638ddf2
 );
