@@ -1,4 +1,5 @@
 **erd diagram**
 
-![Bookstore ERD](assets/bookstore_erd.png)
 
+
+![alt text](assets/bookstore_erd.png)
