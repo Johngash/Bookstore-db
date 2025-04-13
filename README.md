@@ -139,4 +139,4 @@ MIT License (or your chosen license).
 This diagram illustrates the relationships between key entities in the Bookstore database, including customers, books, authors, publishers, and purchases.
 
 
-![Bookstore EER Diagram](assets/bookstore eer.mwb.beforefix)
+![Bookstore EER Diagram](assets/bookstore eer.png)
